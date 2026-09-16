@@ -8,8 +8,8 @@ Guardrail: it never invents facts or numbers. Where a metric would help but isn'
 
 ## How to use it
 
-1. Download `cv-optimiser/SKILL.md`.
-2. In Claude Cowork or Claude Code, add it as a skill (Cowork: Settings → Skills → add; Claude Code: place the `cv-optimiser` folder in `~/.claude/skills/`).
+1. Download SKILL.md.
+2. In Claude Cowork or Claude Code, add it as a skill (Cowork: Settings → Skills → add; Claude Code: create a folder called cv-optimiser inside ~/.claude/skills/ and put SKILL.md in it).
 3. Start a chat, attach your CV and the job description, and say "optimise this CV for this job".
 
 UK conventions by default (two pages, British spelling, no photo). Ask it to switch if the role is elsewhere.
